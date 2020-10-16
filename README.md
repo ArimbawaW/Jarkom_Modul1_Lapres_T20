@@ -7,33 +7,20 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 
 ### Screenshot
 
-
-![github-small](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png "Optional Title")
-![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png "Optional Title")
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
 Private/1.1.png?raw=true)
 
 ## No. 2
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Melalui File -> Export Objects -> HTTP dan mencari nama file "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
 
-```bash
-pip install foobar
-```
+### Screenshot
 
-## Usage
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
+Private/2.png?raw=true)
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 3
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
