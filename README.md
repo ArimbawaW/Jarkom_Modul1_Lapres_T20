@@ -1,30 +1,18 @@
 # Jarkom_Modul1_Lapres_T20
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## No. 1
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui display filter 'http.request http.host eq "testing.mekanis.me"' dari hasil display filter pertama diexpand pada bagian "Hypertext Transfer Protocol" diketahui response dari packet berada pada packet nomor 21251. Melihat dan mengexpand packet 21251 terdapat 'Server'yang digunakan yaitu nginx/ubuntu.
 
-```bash
-pip install foobar
+### Screenshot
+
 ```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
+Private/1.png?raw=true)
+![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
+Private/1.1.png?raw=true)
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## No. 2
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
