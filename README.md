@@ -3,13 +3,12 @@
 
 ## No. 1
 
-Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui display filter 'http.request http.host eq "testing.mekanis.me"' dari hasil display filter pertama diexpand pada bagian "Hypertext Transfer Protocol" diketahui response dari packet berada pada packet nomor 21251. Melihat dan mengexpand packet 21251 terdapat 'Server'yang digunakan yaitu nginx/ubuntu.
+Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui display filter `'http.request http.host eq "testing.mekanis.me"'` dari hasil display filter pertama diexpand pada bagian "Hypertext Transfer Protocol" diketahui response dari packet berada pada packet nomor 21251. Melihat dan mengexpand packet 21251 terdapat 'Server'yang digunakan yaitu nginx/ubuntu.
 
 ### Screenshot
 
 ```
-![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
-Private/1.png?raw=true)
+![Alt text](/1.png?raw=true "Optional Title")
 ![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
 Private/1.1.png?raw=true)
 ```
