@@ -7,11 +7,11 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 
 ### Screenshot
 
-```
+
 ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png "Optional Title")
 ![image](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
 Private/1.1.png?raw=true)
-```
+
 ## No. 2
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
