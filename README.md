@@ -7,18 +7,20 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 
 ### Screenshot
 
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/1.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/1.png)
 ![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png)
+
 
 
 ## No. 2
 
-Melalui File -> Export Objects -> HTTP dan mencari nama file "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"
+Melalui File -> Export Objects -> HTTP dan mencari nama file "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg" 
 
 ### Screenshot
 
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/2.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.png)
+
 
 ## No. 3
 
