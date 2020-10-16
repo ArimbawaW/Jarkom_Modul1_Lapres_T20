@@ -7,9 +7,9 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 
 ### Screenshot
 
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png "Optional Title")
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
-Private/1.1.png?raw=true)
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/1.png)
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/1.1.png)
+
 
 ## No. 2
 
@@ -17,9 +17,8 @@ Melalui File -> Export Objects -> HTTP dan mencari nama file "Tim_Kunjungan_Kerj
 
 ### Screenshot
 
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20
-Private/2.png?raw=true)
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
+![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/2.png)
 
 ## No. 3
 
