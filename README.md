@@ -118,13 +118,11 @@ Kita bisa mendapatkannya dengan
 Capture filter yang digunakan untuk melihat packet yang mengandung port 21 adalah `tcp port 21`
 kita bisa menghubungkan dengan filezilla lalu kita bisa masukkan port 21
 
- ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(351).png)
- ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(350).png)
 
 ## Screenshot
 
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/11.png)
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/11.1.png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(351).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(350).png)
 
 
 ## No. 12
