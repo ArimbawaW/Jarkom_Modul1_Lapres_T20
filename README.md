@@ -1,5 +1,8 @@
 # Jarkom_Modul1_Lapres_T20
 
+## Anggota Kelompok
+- 05311840000040 Ghifari Akbar Rabbani
+- 05311840000045 I Gede Arimbawa Teja Putra Wardana
 
 ## No. 1
 
@@ -41,6 +44,7 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
@@ -112,55 +116,32 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 ## No. 6
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 
-```bash
-pip install foobar
-```
+### Screenshot
 
-## Usage
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/fbcac4d64e817ffc1c5c82fecdcaa6cc62904322/6.png)
+ 
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/fbcac4d64e817ffc1c5c82fecdcaa6cc62904322/6.1.png)
+ 
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/fbcac4d64e817ffc1c5c82fecdcaa6cc62904322/6.2.png)
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 7
+Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Kita bisa mendapatkan file yang berisi Yes.pdf dengan menggunakan ftp-data contains "Yes.pdf"
 
-```bash
-pip install foobar
-```
+### Screenshot
 
-## Usage
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(335).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(336).png)
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 8
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
@@ -178,48 +159,29 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 ## No. 9
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Cari username dan password ketika login FTP pada localhost!
+kita bisa mendapatkan username dan password dengan cara ftp.request.command contains "USER" || ftp.request.command contains "PASS"
 
-```bash
-pip install foobar
-```
+## Screenshot
 
-## Usage
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/no9.png)
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 10
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46" 
 
-```bash
-pip install foobar
-```
+Kita bisa mendapatkannya dengan 
 
-## Usage
+## Screenshot
 
-```python
-import foobar
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(340).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(341).png)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+
 ## No. 11
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
