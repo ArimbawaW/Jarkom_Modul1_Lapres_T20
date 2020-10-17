@@ -87,9 +87,7 @@ Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP
 Dengan menggunakan Display Filter `ftp-data contains "ftp.cdc.gov"` dimana `"ftp.cdc.gov"` adalah situs website yang digunakan Microsoft FTP Service untuk mendownload file
 
 ### Screenshot
-
- 
-
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(355).png)
 ## No. 9
 
 Cari username dan password ketika login FTP pada localhost!
@@ -118,8 +116,10 @@ Kita bisa mendapatkannya dengan
 ## No. 11
 
 Capture filter yang digunakan untuk melihat packet yang mengandung port 21 adalah `tcp port 21`
+kita bisa menghubungkan dengan filezilla lalu kita bisa masukkan port 21
 
-
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(351).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(350).png)
 
 ## Screenshot
 
@@ -149,49 +149,24 @@ Capture filter yang digunakan untuk melihat packet yang menuju port 443 adalah `
 
 
 ## No. 14
+Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+kita bisa mencari ip kita melalui cmd lalu kita bisa masukkan src (ipyangdidapat)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Screenshot
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(342).png)
 
-```bash
-pip install foobar
-```
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(343).png)
 
-## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 15
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
+kita bisa mendapatkan dengan menggunakan command host
 
-```bash
-pip install foobar
-```
+## Screenshot
 
-## Usage
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(344).png)
 
-```python
-import foobar
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/Screenshot%20(345).png)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
