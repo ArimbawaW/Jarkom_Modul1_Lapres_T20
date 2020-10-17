@@ -10,8 +10,8 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 
 ### Screenshot
 
-<img src="https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.png" width="58">
-<img src="https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.1.png" width="58">
+<img src="https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.png" width="250">
+<img src="https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.1.png" width="250">
 
 
 
