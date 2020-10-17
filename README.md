@@ -123,6 +123,8 @@ Capture filter yang digunakan untuk melihat packet yang mengandung port 21 adala
 
 ## Screenshot
 
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/11.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/11.1.png)
 
 
 ## No. 12
