@@ -11,7 +11,7 @@ Untuk mengetahui webserver yang digunakan "testing.mekanis.me" pertama melalui d
 ### Screenshot
 
 ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.png)
-![Alt text](https://github.com/ghifariakbar18/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.1.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/1.1.png)
 
 
 
@@ -21,77 +21,39 @@ Melalui File -> Export Objects -> HTTP dan mencari nama file "Tim_Kunjungan_Kerj
 
 ### Screenshot
 
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.1.png)
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/2.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/2.1.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/2.png)
 
 
 ## No. 3
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Untuk mengetahui login di situs http://ppid.dpr.go.id/ pertama harus melakukan display filter menggunakan command `http.request.method == POST` dari situ lakukan Follow TCP Stream pada packet dan akan terlihat username 10pemuda dan password guncangdunia.
 
-```bash
-pip install foobar
-```
+### Screenshot
 
-## Usage
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/3.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/3.1.png)
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 4
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Melihat semua website yang menggunakan *basic authentication method* dapat dilakukan dengan mudah yaitu menggunakan display filter `http.request.uri contains "login"` 
 
-```bash
-pip install foobar
-```
+### Screenshot
 
-## Usage
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/4.png)
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+## No. 5
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Lakukan display filter untuk situs aku.pengen.pw dengan `http.request and http.host eq "aku.pengen.pw"` dan pada packet 31651 terdapat Credentials yaitu username dan password. Masuk ke situs aku.pengen.pw dan masukkan username dan password
 
-Please make sure to update tests as appropriate.
+### Screenshot
+
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/5.png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/5.1.png)
+
+
 ## No. 5
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
