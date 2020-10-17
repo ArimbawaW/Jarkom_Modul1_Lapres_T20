@@ -55,28 +55,7 @@ Lakukan display filter untuk situs aku.pengen.pw dengan `http.request and http.h
 ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/5.1.png)
 
 
-## No. 5
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 6
 
 Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
@@ -147,70 +126,33 @@ Kita bisa mendapatkannya dengan
 
 ## No. 11
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Screenshot
 
-```python
-import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 12
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Capture filter yang digunakan untuk melihat packet yang berasal dari port 80 adalah `src port 80`
 
-```bash
-pip install foobar
-```
+## Screenshot
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/12).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/12.1.png)
+ 
+ 
 ## No. 13
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Capture filter yang digunakan untuk melihat packet yang menuju port 443 adalah `dst port 443`
 
-```bash
-pip install foobar
-```
 
-## Usage
+## Screenshot
 
-```python
-import foobar
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/13).png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/13.1.png)
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 14
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
