@@ -84,21 +84,12 @@ Kita bisa mendapatkan file yang berisi Yes.pdf dengan menggunakan ftp-data conta
 
 Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
+Dengan menggunakan Display Filter `ftp-data contains "ftp.cdc.gov"` dimana `"ftp.cdc.gov"` adalah situs website yang digunakan Microsoft FTP Service untuk mendownload file
 
-## Usage
+### Screenshot
 
-```python
-import foobar
+ 
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 ## No. 9
 
 Cari username dan password ketika login FTP pada localhost!
