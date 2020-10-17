@@ -126,6 +126,8 @@ Kita bisa mendapatkannya dengan
 
 ## No. 11
 
+Capture filter yang digunakan untuk melihat packet yang mengandung port 21 adalah `tcp port 21 || udp port 21`
+
 
 
 ## Screenshot
