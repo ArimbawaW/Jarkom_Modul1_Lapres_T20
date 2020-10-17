@@ -138,7 +138,7 @@ Capture filter yang digunakan untuk melihat packet yang berasal dari port 80 ada
 
 ## Screenshot
 
- ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/12).png)
+ ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/12.png)
  ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/12.1.png)
  
  
@@ -149,7 +149,7 @@ Capture filter yang digunakan untuk melihat packet yang menuju port 443 adalah `
 
 ## Screenshot
 
-![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/13).png)
+![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/13.png)
 ![Alt text](https://github.com/ArimbawaW/Jarkom_Modul1_Lapres_T20/blob/main/gambar/13.1.png)
 
 
